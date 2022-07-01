@@ -1,5 +1,6 @@
 # About Me
-Hey, I'm Arun
+Hey, I'm Arun Rajbhar from Mumbai,
+I'm currently working on the ReactJS library and have an aspiration to become a full-stack web developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy ui, and design in general. 
 
 
 ## Skills and Experience
