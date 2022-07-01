@@ -21,6 +21,6 @@ Hey, I'm Arun
 ---
 
 ---
-<a href="https://visitcount.itsvg.in">
+<a href="#">
   <img src="https://visitcount.itsvg.in/api?id=arunrajbhar&label=Profile%20Views&color=3&icon=5&pretty=true" />
 </a>
