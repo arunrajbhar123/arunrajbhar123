@@ -14,6 +14,9 @@ I clone the e-commerce website using HTML, CSS, JavaScript, ReactJs, typeScript 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-rajbhar-11570b216/) 
 
 
+# 💫 About Me:
+🌱 I’m currently learning **Node js, Express.js, MongoDB**<br><br>👨‍💻 Have a look at my [Portfolio](https://portfolio-arunrajbhar.netlify.app/)<br><br>📫 Reach me at my [email](arunrajbhar1998@gmail.com)<br><br>📄 Have a look at my [Resume](https://drive.google.com/drive/folders/1mX42Fc11Re2HB7T6EAD7xyppNqSB82if?usp=sharing)
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
