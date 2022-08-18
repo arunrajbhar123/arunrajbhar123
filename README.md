@@ -14,43 +14,27 @@ I clone the e-commerce website using HTML, CSS, JavaScript, ReactJs, typeScript 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-rajbhar-11570b216/) 
 
 
-# 💫 About Me:
+
 🌱 I’m currently learning **Node js, Express.js, MongoDB**<br><br>👨‍💻 Have a look at my [Portfolio](https://portfolio-arunrajbhar.netlify.app/)<br><br>📫 Reach me at my email arunrajbhar1998@gmail.com</a><br><br>📄 Have a look at my [Resume](https://drive.google.com/drive/folders/1mX42Fc11Re2HB7T6EAD7xyppNqSB82if?usp=sharing)
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  
-  
-  
- 
- 
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
 
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  
+  
+  
+ 
+ 
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40"/>
+
 </p>
-<hr>
 
 
 
