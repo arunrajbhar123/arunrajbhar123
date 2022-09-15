@@ -1,13 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arun+Rajbhar....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-Hey, I'm Arun Rajbhar from Mumbai,
-My name's Arun Rajbhar. I'm from Mumbai, Maharastra. I am a Full Stack Developer.
-I clone the e-commerce website using HTML, CSS, JavaScript, ReactJs, typeScript and alos I known app testing using (cypress). I am able to build the backend things as well using NodeJs, Express. I'm always improving myself with each project I get my hand on.
+<h1 align="center">Hi 👋, I'm 𝓐𝓻𝓾𝓷</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-
+<h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
+<hr/>
 
 
 ## 🌐Socials
