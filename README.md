@@ -61,7 +61,7 @@
 
 
 <a href="#">
-  <img src="https://visitcount.itsvg.in/api?id=arunrajbhar&label=Profile%20Views&color=3&icon=5&pretty=true" />
+  <img src="https://arunrajbhar123-profile-view.herokuapp.com/" />
 </a>
 
 
