@@ -60,8 +60,6 @@
 
 
 
-
-
-[![Count](https://arunrajbhar123-profile-view.herokuapp.com)]
+(https://arunrajbhar123-profile-view.herokuapp.com)
 
 
