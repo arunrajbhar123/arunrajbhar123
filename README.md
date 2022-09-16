@@ -62,6 +62,6 @@
 
 
 
-[![Count](https://arunrajbhar123-profile-view.herokuapp.com)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+[![Count](https://arunrajbhar123-profile-view.herokuapp.com)]
 
 
