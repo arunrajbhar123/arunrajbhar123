@@ -30,7 +30,8 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40"/>
-
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"  width="40" height="40" />
+  
 </p>
 
 
