@@ -31,6 +31,12 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"  width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg"  width="40" height="40" />
+  
+ 
+  
   
 </p>
 
