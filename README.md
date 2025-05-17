@@ -12,7 +12,7 @@
 
 
 
-👨‍💻 Have a look at my [Portfolio](https://portfolio-arunrajbhar.vercel.app/)<br><br>📫 Reach me at my email arunrajbhar1998@gmail.com</a><br><br>📄 Have a look at my [Resume](https://drive.google.com/drive/folders/1mX42Fc11Re2HB7T6EAD7xyppNqSB82if?usp=sharing)
+👨‍💻 Have a look at my [Portfolio](https://portfolio-arunrajbhar.vercel.app/)<br><br>📫 Reach me at my email arunrajbhar1998@gmail.com</a><br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1v_jL2ykLEOr47-k0_ixhYfWB8vU_RuyF/view?usp=sharing)
 
 
   
